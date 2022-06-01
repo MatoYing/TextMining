@@ -1,0 +1,6 @@
+情感分析用词语集(beta 版):http://www.keenage.com/html/c_bulletin_2007.htm
+NTUSD-简体中文情感极性词典:http://www.datatang.com/data/11837
+程度副词及强度和否定词表:http://www.datatang.com/data/44198
+现有情感词典汇总:http://www.datatang.com/data/46922
+
+大概是有上述词典人工整理而成。
